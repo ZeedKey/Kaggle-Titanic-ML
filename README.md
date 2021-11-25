@@ -1,2 +1,2 @@
 # Kaggle-Titanic-ML
-Collection of all of my Titanic models
+Collection of all of my models for Titanic task
